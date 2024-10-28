@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.MyText{
+  
+  color: rgb(255, 255, 255);
+ border-radius: 10%;
+
+ 
+}
